@@ -1,0 +1,36 @@
+/Colors and Font/
+
+body {
+background-color: rgb(230, 230, ,230);
+color: rgb(30, 30, ,30);
+font-family: 'Merriweather', serif;
+font-size: 16px;
+}
+
+h1, h2 {font-family: 'Roboto', sans-serif;}
+
+h1 {
+color: rgb(255, 140, 66);
+font-size: 35px;
+font-weight: 900;
+}
+
+h2 {
+	color: rgb(143, 213, 166)
+font-size: 24px;
+font-weight: lighter;
+font-weight: 300;
+}
+
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: rgb(47, 102, 144);
+	font-weight: 600;
+	font-size: 16px;
+}
+
+a:hover {
+	color: rgb(108, 142, 173);
+}
+
